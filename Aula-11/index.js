@@ -7,6 +7,7 @@ Aritméticos
 ** Potenciação
 % Resto da divisão
 
+
 Incremento = ++
 Decremento = --
 
